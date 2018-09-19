@@ -8,5 +8,7 @@ namespace Project.Data
 {
     public class prem
     {
+        public int PremId { get; set; }
+        public string PremName { get; set; }
     }
 }
